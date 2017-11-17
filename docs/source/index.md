@@ -1,5 +1,5 @@
-<meta http-equiv="refresh" content="0; url=http://clouddocs.f5.com/">
+<meta http-equiv="refresh" content="0; url=http://clouddocs.f5.com/products/openstack/lbaasv1/master/">
 
 <a href="http://clouddocs.f5.com">
-    F5's documentation has moved from Read The Docs to [clouddocs.f5.com](http://clouddocs.f5.com).
+    F5's OpenStack LBaaSv1 plugin documentation has moved from Read The Docs to [clouddocs.f5.com](http://clouddocs.f5.com/products/openstack/lbaasv1/master/).
 </a>
