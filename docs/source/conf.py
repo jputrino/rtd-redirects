@@ -20,6 +20,10 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+#
+## Idea borrowed from galaxyproject/readthedocs-redirect
+## (https://github.com/galaxyproject/readthedocs-redirect/)
+#
 
 # -- General configuration ------------------------------------------------
 
